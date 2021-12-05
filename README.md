@@ -3,6 +3,7 @@ Trying to explore Google's possibilities with Python !
 
 
 
-### Objectives 
-## BS4
+##Objectives 
+WebScrapping Google 
+Analyzing some data
 
