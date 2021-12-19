@@ -1,0 +1,3 @@
+#Based on the GENERATING-KEYWORDS-FOR-GOOGLE-ADWORDS by Data.Camp. 
+
+##### TO BE CONTINUED ##### 
